@@ -1,4 +1,4 @@
-Humble Bundle click download buttons
+Humble Bundle downloads
 ========
 
 Simple Chrome extension to automate the downloads of Humble Bundle purchases by clicking each button automatically after some time interval.
